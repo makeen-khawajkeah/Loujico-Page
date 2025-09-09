@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "welcome": " مرحباً بكم في ",
+    "companyName": "لوجيكو",
+    "description": "نحن متخصصون في تقديم خدمات الاستشارات والإدارة والتدريب والبحث للشركات والعملاء. تسعى الشركة إلى دعم أداء الشركات وتحقيق أهدافها الاستراتيجية من خلال تقديم حلول مبتكرة ومخصصة، مع التركيز على تحسين الكفاءة وتخفيف الأعباء اليومية.",
+    "contactButton": "اتصل بنا",
+    "imageAlt": "صورة تعبر عن خدمات الشركة"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "contactTitle": "معلومات التواصل",
+    "followUs": "تابعنا",
+    "copyright": "&copy; {{year}} {{company}}. جميع الحقوق محفوظة.",
+    "address": "الجمهورية العربية السورية ،دمشق ،الروضة",
+    "description": "لوجيكو هي شركة رائدة متخصصة في خدمات الاستشارات والإدارة والتدريب والبحث، ملتزمة بمساعدة الشركات على تحقيق أهدافها الاستراتيجية."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "portfolio": "معرض الأعمال",
+    "whyUs": "لماذا نحن",
+    "goals": "إنجازاتنا",
+    "followUs": "تابعنا",
+    "contact": "اتصل بنا"
+  },
+  "portfolio": {
+    "location": " : الموقع",
+    "activity": " : النشاطات",
+    "foundingBusiness": "تأسيس الأعمال",
+    "developmentConsulting": "استشارات التطوير",
+    "managementConsulting": "استشارات الإدارة",
+    "projectConsulting": "استشارات المشاريع",
+    "customers": {
+      "spearingsFactory": "مصنع سبيرينجز",
+      "princessNourahUniversity": "جامعة الأميرة نورة",
+      "pic": "PIC",
+      "awafiIceCream": "مصنع آيس كريم عوافي",
+      "perferHeart": "بيرفير هارت",
+      "hubris": "هوبريس",
+      "visionGenerationSchool": "مدرسة فيجن جينيريشن",
+      "tourismCompany": "شركة سياحية",
+      "alSafaRestaurant": "مطعم الصفا",
+      "silkRoad": "طريق الحرير",
+      "youAtYou": "يو @ يو",
+      "easyFly": "إيزي فلاي",
+      "roshnExpo": "معرض روشن",
+      "roshnExpo2": "معرض روشن",
+      "roshnExpo3": "معرض روشن",
+      "roshnExpo4": "معرض روشن",
+      "arqaHospital": "مستشفى أرقا",
+      "diriyahGate": "بوابة الدرعية",
+      "riyadhCity": "الرياض",
+      "riyadhCity2": "الرياض",
+      "ritsCarlton": "ريتز كارلتون",
+      "waterfront": "ووترفرونت",
+      "taysirFactory": "مصنع تسير الشيخ للأسمدة والبتروكيماويات",
+      "baqshanDental": "مختبر مستشفى بقشان لطب الأسنان",
+      "modernOceans": "مودرن أوشينز",
+      "adminFinancialCenter": "المركز الإداري والمالي",
+      "inshaaEngineering": "استشارات إنشاء الهندسية",
+      "skyPark": "سكاي بارك",
+      "balubaid": "بلوبيد (إدارة الممتلكات)",
+      "alFurqanCenter": "مركز الفرقان",
+      "sunway": "سنواي",
+      "alFuratWater": "مصنع ماء الفرات",
+      "abuDanMedical": "أبو دان الطبي",
+      "alNawalHotel": "فندق النوال الذهبي",
+      "akadGoods": "عقد للسلع الاستهلاكية",
+      "alHimamEntertainment": "شركة الهمم للترفيه",
+      "hijrahRoad": "طريق الهجرة",
+      "abuKanonShawarma": "أبو كانون شاورما",
+      "pillar": "بيلار"
+    }
+  },
+  "cities": {
+    "jeddah": "جدة",
+    "riyadh": "الرياض",
+    "mecca": "مكة",
+    "yanbu": "ينبع",
+    "medina": "المدينة المنورة",
+    "malaysia": "ماليزيا",
+    "yemen": "اليمن"
+  },
+  "locations": {
+    "websiteMalaysia": "موقع ويب - ماليزيا",
+    "websiteTurkey": "موقع ويب - تركيا",
+    "websiteSaudi": "موقع ويب - السعودية",
+    "sahabiRestaurant": "مطعم الصحابي - جدة",
+    "saudiArabia": "السعودية",
+    "malaysiaKuwaitTurkey": "ماليزيا، الكويت، تركيا",
+    "malaysiaRussia": "ماليزيا / روسيا",
+    "jeddahMedina": "جدة / المدينة",
+    "saudiEgypt": "السعودية / مصر",
+    "riyadhJeddah": "الرياض / جدة"
+  },
+  "activities": {
+    "foodIndustry": "صناعة غذائية",
+    "industrialCraftsman": "صناعي، حرفي",
+    "foodDrinks": "طعام ومشروبات",
+    "educational": "تعليمي",
+    "tourist": "سياحي",
+    "carRental": "تأجير سيارات",
+    "marketing": "تسويق",
+    "bookFair": "معرض كتاب",
+    "graffitiExhibition": "معرض فن الجرافيتي",
+    "noorRiyad": "نور الرياض",
+    "boulevardWorld": "بوليفارد وورلد",
+    "blackHat": "بلاك هات",
+    "perfumeExhibition": "معرض عطور",
+    "saudiChineseConference": "المؤتمر السعودي الصيني",
+    "joyAwards": "جوائز Joy",
+    "lip": "ليب",
+    "formula1": "فورمولا 1",
+    "training": "تدريب",
+    "petrochemicals": "بتروكيماويات",
+    "medicalCommercial": "طبي تجاري",
+    "industrial": "صناعي",
+    "contracting": "مقاولات",
+    "realEstate": "تطوير عقاري",
+    "privateProperties": "ممتلكات خاصة",
+    "entertainment": "ترفيه",
+    "serviceHajj": "خدمي (حج وعمرة)",
+    "commercial": "تجاري",
+    "eventManagement": "ترفيه - إدارة فعاليات",
+    "logistics": "لوجستي",
+    "food": "طعام",
+    "marineServices": "صناعي - خدمات بحرية",
+    "medical": "طبي"
+  },
+  "whyUs": {
+    "features": {
+      "globalExpertise": {
+        "title": "خبرتنا العالمية",
+        "description": "يتمتع فريقنا بخبرة واسعة ومتعمقة في التعامل مع مختلف الأسواق العالمية، مما يضمن أن حلولنا تتماشى مع أفضل الممارسات الدولية."
+      },
+      "innovativeSolutions": {
+        "title": "حلول مبتكرة",
+        "description": "نحن لا نقدم حلولاً تقليدية فحسب؛ بل نسعى باستمرار إلى الابتكار ونقدم استراتيجيات جديدة تساعدك على التفوق على المنافسين."
+      },
+      "truePartnership": {
+        "title": "شراكة حقيقية",
+        "description": "نؤمن أن نجاحك هو نجاحنا. لذلك، نعمل معك كشريك حقيقي، ونقدم الدعم والإرشاد اللازمين في كل خطوة على الطريق."
+      }
+    }
+  },
+  "goals": {
+    "ourGoals": "إنجازاتنا",
+    "employees": "موظفين",
+    "products": "منتجات",
+    "customers": "عملاء",
+    "partners": "شركاء"
+  },
+  "social": {
+    "linkedin": "لينكدإن",
+    "twitter": "تويتر",
+    "facebook": "فيسبوك",
+    "instagram": "إنستغرام",
+    "youtube": "يوتيوب",
+    "tiktok": "تيك توك",
+    "whatsapp": "واتساب",
+    "pinterest": "بينتيريست",
+    "snapchat": "سناب شات",
+    "telegram": "تيليجرام"
+  },
+  "company": {
+    "name": "لوجيكو"
+  },
+  "sectionTitles": {
+    "portfolio": "معرض أعمالنا",
+    "whyUs": "لماذا تختارنا",
+    "goals": "إنجازاتنا",
+    "services": "خدماتنا",
+    "testimonials": "آراء العملاء",
+    "team": "فريقنا",
+    "contact": "تواصل معنا"
+  },
+  "buttons": {
+    "learnMore": "اعرف المزيد",
+    "viewAll": "عرض الكل",
+    "getStarted": "ابدأ الآن",
+    "contactUs": "اتصل بنا",
+    "readMore": "اقرأ المزيد",
+    "download": "تحميل",
+    "subscribe": "اشترك"
+  },
+  "labels": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "message": "الرسالة",
+    "subject": "الموضوع",
+    "send": "إرسال الرسالة",
+    "loading": "جاري التحميل...",
+    "success": "تم بنجاح!",
+    "error": "خطأ!"
+  },
+  "messages": {
+    "requiredField": "هذا الحقل مطلوب",
+    "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+    "messageSent": "تم إرسال رسالتك بنجاح!",
+    "messageError": "حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى."
+  }
+}

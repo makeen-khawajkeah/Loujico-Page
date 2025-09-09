@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "welcome": "Welcome to ",
+    "companyName": "LOUJICO",
+    "description": "we specializing in providing consulting, management, training, and research services to companies and clients. The company seeks to support companies' performance and achieve their strategic goals by offering innovative and customized solutions, with a focus on improving efficiency and reducing daily burdens.",
+    "contactButton": "Contact Us",
+    "imageAlt": "Image representing company services"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact Info",
+    "followUs": "Follow Us",
+    "copyright": "&copy; {{year}} {{company}}. All Rights Reserved.",
+    "address": "Syrian Arab Republic ,Damascus ,Al Rawda",
+    "description": "Loujico is a leading company specializing in consulting, management, training, and research services, dedicated to helping businesses achieve their strategic goals."
+  },
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "whyUs": "Why Us",
+    "goals": "Achievements",
+    "followUs": "Follow Us",
+    "contact": "Contact"
+  },
+  "portfolio": {
+    "location": "Location :",
+    "activity": "Activity :",
+    "foundingBusiness": "Founding Business",
+    "developmentConsulting": "Development Consulting",
+    "managementConsulting": "Management Consulting",
+    "projectConsulting": "Project Consulting",
+    "customers": {
+      "spearingsFactory": "Spearings Factory",
+      "princessNourahUniversity": "Princess Nourah University",
+      "pic": "PIC",
+      "awafiIceCream": "Awafi Ice Cream Factory",
+      "perferHeart": "Perfer Heart",
+      "hubris": "Hubris",
+      "visionGenerationSchool": "Vision Generation School",
+      "tourismCompany": "Tourism Company",
+      "alSafaRestaurant": "Al Safa Restaurant",
+      "silkRoad": "Silk Road",
+      "youAtYou": "You @ you",
+      "easyFly": "Easy Fly",
+      "roshnExpo": "Roshn Expo",
+      "roshnExpo2": "Roshn Expo",
+      "roshnExpo3": "Roshn Expo",
+      "roshnExpo4": "Roshn Expo",
+      "arqaHospital": "Arqa Hospital",
+      "diriyahGate": "Diriyah Gate",
+      "riyadhCity": "Al-Riyad",
+      "riyadhCity2": "Al-Riyad",
+      "ritsCarlton": "Rits Carlton",
+      "waterfront": "Waterfront",
+      "taysirFactory": "Taysir Al-Sheikh Fertilizer & Petrochemicals Factory",
+      "baqshanDental": "Baqshan Dental Hospital Lab",
+      "modernOceans": "Modern Oceans",
+      "adminFinancialCenter": "Administrative & Financial Center",
+      "inshaaEngineering": "Insha'a Engineering Consultancy",
+      "skyPark": "Sky Park",
+      "balubaid": "Balubaid (Property Management)",
+      "alFurqanCenter": "Al-Furqan Center",
+      "sunway": "Sunway",
+      "alFuratWater": "Al-Furat Water Factory",
+      "abuDanMedical": "Abu Dan Medical",
+      "alNawalHotel": "Al-Nawal Golden Hotel",
+      "akadGoods": "Akad for Consumer Goods",
+      "alHimamEntertainment": "Al-Himam Entertainment Company",
+      "hijrahRoad": "Hijrah Road",
+      "abuKanonShawarma": "Abu Kanon Shawarma",
+      "pillar": "Pillar"
+    }
+  },
+  "cities": {
+    "jeddah": "Jeddah",
+    "riyadh": "Riyadh",
+    "mecca": "Mecca",
+    "yanbu": "Yanbu",
+    "medina": "Medina",
+    "malaysia": "Malaysia",
+    "yemen": "Yemen"
+  },
+  "locations": {
+    "websiteMalaysia": "Website - Malaysia",
+    "websiteTurkey": "Website - Turkey",
+    "websiteSaudi": "Website - Saudi Arabia",
+    "sahabiRestaurant": "Sahabi Restaurant - Jeddah",
+    "saudiArabia": "Saudi Arabia",
+    "malaysiaKuwaitTurkey": "Malaysia, Kuwait, Turkey",
+    "malaysiaRussia": "Malaysia / Russia",
+    "jeddahMedina": "Jeddah / Madinah",
+    "saudiEgypt": "Saudi Arabia / Egypt",
+    "riyadhJeddah": "Riyadh / Jeddah"
+  },
+  "activities": {
+    "foodIndustry": "Food Industry",
+    "industrialCraftsman": "Industrial, Craftsman",
+    "foodDrinks": "Food - Drinks",
+    "educational": "Educational",
+    "tourist": "Tourist",
+    "carRental": "Car Rental",
+    "marketing": "Marketing",
+    "bookFair": "Book Fair",
+    "graffitiExhibition": "Graffiti Art Exhibition",
+    "noorRiyad": "Noor Al-Riyad",
+    "boulevardWorld": "Boulevard World",
+    "blackHat": "Black Hat",
+    "perfumeExhibition": "Perfume Exhibition",
+    "saudiChineseConference": "Saudi-Chinese Conference",
+    "joyAwards": "Joy Awards",
+    "lip": "Lip",
+    "formula1": "Formula 1",
+    "training": "Training",
+    "petrochemicals": "Petrochemicals",
+    "medicalCommercial": "Medical Commercial",
+    "industrial": "Industrial",
+    "contracting": "Contracting",
+    "realEstate": "Real Estate Development",
+    "privateProperties": "Private Properties",
+    "entertainment": "Entertainment",
+    "serviceHajj": "Service (Hajj & Umrah)",
+    "commercial": "Commercial",
+    "eventManagement": "Entertainment - Event Management",
+    "logistics": "Logistics",
+    "food": "Food",
+    "marineServices": "Industrial - Marine Services",
+    "medical": "Medical"
+  },
+  "whyUs": {
+    "features": {
+      "globalExpertise": {
+        "title": "Our Global Expertise",
+        "description": "Our team has extensive and in-depth experience in dealing with various global markets, ensuring that our solutions align with international best practices."
+      },
+      "innovativeSolutions": {
+        "title": "Innovative Solutions",
+        "description": "We don't just provide traditional solutions; we constantly strive for innovation and offer new strategies that help you outperform competitors."
+      },
+      "truePartnership": {
+        "title": "A True Partnership",
+        "description": "We believe your success is our success. Therefore, we work with you as a true partner, providing the necessary support and guidance every step of the way."
+      }
+    }
+  },
+  "goals": {
+    "ourGoals": "Our Achievements",
+    "employees": "Employees",
+    "products": "Products",
+    "customers": "Customers",
+    "partners": "Partners"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "whatsapp": "WhatsApp",
+    "pinterest": "Pinterest",
+    "snapchat": "Snapchat",
+    "telegram": "Telegram"
+  },
+  "company": {
+    "name": "Loujico"
+  },
+  "sectionTitles": {
+    "portfolio": "Our Portfolio",
+    "whyUs": "Why Choose Us",
+    "goals": "Our Achievements",
+    "services": "Our Services",
+    "testimonials": "Client Testimonials",
+    "team": "Our Team",
+    "contact": "Get In Touch"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "download": "Download",
+    "subscribe": "Subscribe"
+  },
+  "labels": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "subject": "Subject",
+    "send": "Send Message",
+    "loading": "Loading...",
+    "success": "Success!",
+    "error": "Error!"
+  },
+  "messages": {
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "messageSent": "Your message has been sent successfully!",
+    "messageError": "There was an error sending your message. Please try again."
+  }
+}
