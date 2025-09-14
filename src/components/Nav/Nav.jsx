@@ -46,7 +46,7 @@ const Nav = () => {
                     <a
                       key={dropdownLink.id}
                       href={dropdownLink.path}
-                      className="block px-6 py-3 whitespace-nowrap text-gray-800 hover:bg-[#7899B2] hover:text-white transition duration-300 last:hover:rounded-b-md"
+                      className="block px-6 py-3 whitespace-nowrap text-gray-800 hover:bg-[#7899B2] hover:text-white transition duration-300 first:hover:rounded-t-md last:hover:rounded-b-md"
                     >
                       {t(dropdownLink.title)}
                     </a>
@@ -71,7 +71,7 @@ const Nav = () => {
                 onClick={() => {
                   changeLanguage(language === "ar" ? "en" : "ar");
                 }}
-                className="block px-6 py-3 whitespace-nowrap text-gray-800 hover:bg-[#7899B2] hover:text-white transition duration-300 last:hover:rounded-b-md"
+                className="block px-6 py-3 whitespace-nowrap text-gray-800 hover:bg-[#7899B2] hover:text-white transition duration-300 rounded-md"
               >
                 {language === "ar" ? "الانجليزية" : "Arabic"}
               </span>
